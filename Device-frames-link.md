@@ -1,1 +1,0 @@
-## Permalink to iCloud Drive: https://jjy.me/resources/mdf-gd
