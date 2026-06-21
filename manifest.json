@@ -1,0 +1,1351 @@
+{
+  "version": 1,
+  "generated": "2026-06-21",
+  "root": "Frames",
+  "frames": [
+    {
+      "type": "group",
+      "name": "Android",
+      "folder": "Android",
+      "children": [
+        {
+          "type": "group",
+          "name": "Phone",
+          "folder": "Phone",
+          "children": [
+            {
+              "type": "group",
+              "name": "Pixel 8",
+              "folder": "Pixel_8",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Pixel 8 Hazel",
+                  "path": "Frames/Android/Phone/Pixel_8/Pixel_8_Hazel.png",
+                  "format": "png",
+                  "device": "Pixel 8",
+                  "color": "Hazel"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Pixel 8 Pro",
+              "folder": "Pixel_8_Pro",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Pixel 8 Pro Black",
+                  "path": "Frames/Android/Phone/Pixel_8_Pro/Pixel_8_Pro_Black.png",
+                  "format": "png",
+                  "device": "Pixel 8 Pro",
+                  "color": "Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel 8 Pro Blue",
+                  "path": "Frames/Android/Phone/Pixel_8_Pro/Pixel_8_Pro_Blue.png",
+                  "format": "png",
+                  "device": "Pixel 8 Pro",
+                  "color": "Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel 8 Pro Silver",
+                  "path": "Frames/Android/Phone/Pixel_8_Pro/Pixel_8_Pro_Silver.png",
+                  "format": "png",
+                  "device": "Pixel 8 Pro",
+                  "color": "Silver"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Pixel 9 Pro",
+              "folder": "Pixel_9_Pro",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Pixel 9 Pro Hazel",
+                  "path": "Frames/Android/Phone/Pixel_9_Pro/Pixel_9_Pro_Hazel.png",
+                  "format": "png",
+                  "device": "Pixel 9 Pro",
+                  "color": "Hazel"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel 9 Pro Obsidian",
+                  "path": "Frames/Android/Phone/Pixel_9_Pro/Pixel_9_Pro_Obsidian.png",
+                  "format": "png",
+                  "device": "Pixel 9 Pro",
+                  "color": "Obsidian"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel 9 Pro Rose Quartz",
+                  "path": "Frames/Android/Phone/Pixel_9_Pro/Pixel_9_Pro_Rose_Quartz.png",
+                  "format": "png",
+                  "device": "Pixel 9 Pro",
+                  "color": "Rose Quartz"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Pixel 9 Pro XL",
+              "folder": "Pixel_9_Pro_XL",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Pixel 9 Pro XL Hazel",
+                  "path": "Frames/Android/Phone/Pixel_9_Pro_XL/Pixel_9_Pro_XL_Hazel.png",
+                  "format": "png",
+                  "device": "Pixel 9 Pro XL",
+                  "color": "Hazel"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel 9 Pro XL Obsidian",
+                  "path": "Frames/Android/Phone/Pixel_9_Pro_XL/Pixel_9_Pro_XL_Obsidian.png",
+                  "format": "png",
+                  "device": "Pixel 9 Pro XL",
+                  "color": "Obsidian"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel 9 Pro XL Rose Quartz",
+                  "path": "Frames/Android/Phone/Pixel_9_Pro_XL/Pixel_9_Pro_XL_Rose_Quartz.png",
+                  "format": "png",
+                  "device": "Pixel 9 Pro XL",
+                  "color": "Rose Quartz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "Tablet",
+          "folder": "Tablet",
+          "children": [
+            {
+              "type": "group",
+              "name": "Pixel",
+              "folder": "Pixel",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Pixel Tablet Hazel",
+                  "path": "Frames/Android/Tablet/Pixel/Pixel_Tablet_Hazel.png",
+                  "format": "png",
+                  "device": "Pixel Tablet",
+                  "color": "Hazel"
+                },
+                {
+                  "type": "asset",
+                  "name": "Pixel Tablet Porcelain",
+                  "path": "Frames/Android/Tablet/Pixel/Pixel_Tablet_Porcelain.png",
+                  "format": "png",
+                  "device": "Pixel Tablet",
+                  "color": "Porcelain"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Samsung Galaxy Tab S11 Ultra",
+              "folder": "Samsung_Galaxy_Tab_S11_Ultra",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Samsung Galaxy Tab S11 Ultra",
+                  "path": "Frames/Android/Tablet/Samsung_Galaxy_Tab_S11_Ultra/Samsung_Galaxy_Tab_S11_Ultra.png",
+                  "format": "png",
+                  "device": "Samsung Galaxy Tab S11 Ultra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Apple",
+      "folder": "Apple",
+      "children": [
+        {
+          "type": "group",
+          "name": "MacBook",
+          "folder": "MacBook",
+          "children": [
+            {
+              "type": "asset",
+              "name": "MacBook Air 13",
+              "path": "Frames/Apple/MacBook/MacBook_Air_13.png",
+              "format": "png",
+              "device": "MacBook Air 13"
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Air 13 - Menu Bar",
+              "path": "Frames/Apple/MacBook/MacBook_Air_13_-_Menu_Bar.png",
+              "format": "png",
+              "device": "MacBook Air 13",
+              "tags": [
+                "Menu Bar"
+              ]
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Air 15",
+              "path": "Frames/Apple/MacBook/MacBook_Air_15.png",
+              "format": "png",
+              "device": "MacBook Air 15"
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Air 15 - Menu Bar",
+              "path": "Frames/Apple/MacBook/MacBook_Air_15_-_Menu_Bar.png",
+              "format": "png",
+              "device": "MacBook Air 15",
+              "tags": [
+                "Menu Bar"
+              ]
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Pro 14",
+              "path": "Frames/Apple/MacBook/MacBook_Pro_14.png",
+              "format": "png",
+              "device": "MacBook Pro 14"
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Pro 14 - Menu Bar",
+              "path": "Frames/Apple/MacBook/MacBook_Pro_14_-_Menu_Bar.png",
+              "format": "png",
+              "device": "MacBook Pro 14",
+              "tags": [
+                "Menu Bar"
+              ]
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Pro 16",
+              "path": "Frames/Apple/MacBook/MacBook_Pro_16.png",
+              "format": "png",
+              "device": "MacBook Pro 16"
+            },
+            {
+              "type": "asset",
+              "name": "MacBook Pro 16 - Menu Bar",
+              "path": "Frames/Apple/MacBook/MacBook_Pro_16_-_Menu_Bar.png",
+              "format": "png",
+              "device": "MacBook Pro 16",
+              "tags": [
+                "Menu Bar"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "Mac Desktop",
+          "folder": "Mac_Desktop",
+          "children": [
+            {
+              "type": "group",
+              "name": "Pro Display XDR",
+              "folder": "Pro_Display_XDR",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Pro Display XDR",
+                  "path": "Frames/Apple/Mac_Desktop/Pro_Display_XDR/Pro_Display_XDR.png",
+                  "format": "png",
+                  "device": "Pro Display XDR"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Studio Display",
+              "folder": "Studio_Display",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Studio Display",
+                  "path": "Frames/Apple/Mac_Desktop/Studio_Display/Studio_Display.png",
+                  "format": "png",
+                  "device": "Studio Display"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "iMac 24",
+              "folder": "iMac_24",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Blue",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Blue.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Blue - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Blue_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Blue",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Green",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Green.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Green"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Green - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Green_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Green",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Orange",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Orange.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Orange"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Orange - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Orange_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Orange",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Purple",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Purple.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Purple"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Purple - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Purple_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Purple",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Red",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Red.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Red"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Red - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Red_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Red",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Silver",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Silver.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Silver"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Silver - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Silver_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Silver",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Yellow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Yellow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Yellow"
+                },
+                {
+                  "type": "asset",
+                  "name": "iMac 24 - Yellow - Shadow",
+                  "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Yellow_-_Shadow.png",
+                  "format": "png",
+                  "device": "iMac 24",
+                  "color": "Yellow",
+                  "tags": [
+                    "Shadow"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "iOS",
+          "folder": "iOS",
+          "children": [
+            {
+              "type": "group",
+              "name": "13 mini",
+              "folder": "13_mini",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "13 mini Black",
+                  "path": "Frames/Apple/iOS/13_mini/13_mini_Black.png",
+                  "format": "png",
+                  "device": "13 mini",
+                  "color": "Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "13 mini Blue",
+                  "path": "Frames/Apple/iOS/13_mini/13_mini_Blue.png",
+                  "format": "png",
+                  "device": "13 mini",
+                  "color": "Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "13 mini Pink",
+                  "path": "Frames/Apple/iOS/13_mini/13_mini_Pink.png",
+                  "format": "png",
+                  "device": "13 mini",
+                  "color": "Pink"
+                },
+                {
+                  "type": "asset",
+                  "name": "13 mini ProductRED",
+                  "path": "Frames/Apple/iOS/13_mini/13_mini_ProductRED.png",
+                  "format": "png",
+                  "device": "13 mini",
+                  "color": "ProductRED"
+                },
+                {
+                  "type": "asset",
+                  "name": "13 mini Starlight",
+                  "path": "Frames/Apple/iOS/13_mini/13_mini_Starlight.png",
+                  "format": "png",
+                  "device": "13 mini",
+                  "color": "Starlight"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "14 Pro Max",
+              "folder": "14_Pro_Max",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Deep Purple",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Deep_Purple.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Deep Purple"
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Deep Purple - Shadow",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Deep_Purple_-_Shadow.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Deep Purple",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Gold",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Gold.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Gold"
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Gold - Shadow",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Gold_-_Shadow.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Gold",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Silver",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Silver.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Silver"
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Silver - Shadow",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Silver_-_Shadow.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Silver",
+                  "tags": [
+                    "Shadow"
+                  ]
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Space Black",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Space_Black.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Space Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "14 Pro Max - Space Black - Shadow",
+                  "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Space_Black_-_Shadow.png",
+                  "format": "png",
+                  "device": "14 Pro Max",
+                  "color": "Space Black",
+                  "tags": [
+                    "Shadow"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "15 Pro Max",
+              "folder": "15_Pro_Max",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "15 Pro Max - Black Titanium",
+                  "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_Black_Titanium.png",
+                  "format": "png",
+                  "device": "15 Pro Max",
+                  "color": "Black Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "15 Pro Max - Blue Titanium",
+                  "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_Blue_Titanium.png",
+                  "format": "png",
+                  "device": "15 Pro Max",
+                  "color": "Blue Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "15 Pro Max - Natural Titanium",
+                  "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_Natural_Titanium.png",
+                  "format": "png",
+                  "device": "15 Pro Max",
+                  "color": "Natural Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "15 Pro Max - White Titanium",
+                  "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_White_Titanium.png",
+                  "format": "png",
+                  "device": "15 Pro Max",
+                  "color": "White Titanium"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "16",
+              "folder": "16",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "16 - Black",
+                  "path": "Frames/Apple/iOS/16/16_-_Black.png",
+                  "format": "png",
+                  "device": "16",
+                  "color": "Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 - Pink",
+                  "path": "Frames/Apple/iOS/16/16_-_Pink.png",
+                  "format": "png",
+                  "device": "16",
+                  "color": "Pink"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 - Teal",
+                  "path": "Frames/Apple/iOS/16/16_-_Teal.png",
+                  "format": "png",
+                  "device": "16",
+                  "color": "Teal"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 - Ultramarine",
+                  "path": "Frames/Apple/iOS/16/16_-_Ultramarine.png",
+                  "format": "png",
+                  "device": "16",
+                  "color": "Ultramarine"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 - White",
+                  "path": "Frames/Apple/iOS/16/16_-_White.png",
+                  "format": "png",
+                  "device": "16",
+                  "color": "White"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "16 Plus",
+              "folder": "16_Plus",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "16 Plus - Black",
+                  "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Black.png",
+                  "format": "png",
+                  "device": "16 Plus",
+                  "color": "Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Plus - Pink",
+                  "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Pink.png",
+                  "format": "png",
+                  "device": "16 Plus",
+                  "color": "Pink"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Plus - Teal",
+                  "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Teal.png",
+                  "format": "png",
+                  "device": "16 Plus",
+                  "color": "Teal"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Plus - Ultramarine",
+                  "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Ultramarine.png",
+                  "format": "png",
+                  "device": "16 Plus",
+                  "color": "Ultramarine"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Plus - White",
+                  "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_White.png",
+                  "format": "png",
+                  "device": "16 Plus",
+                  "color": "White"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "16 Pro",
+              "folder": "16_Pro",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "16 Pro - Black Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_Black_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro",
+                  "color": "Black Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Pro - Desert Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_Desert_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro",
+                  "color": "Desert Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Pro - Natural Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_Natural_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro",
+                  "color": "Natural Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Pro - White Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_White_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro",
+                  "color": "White Titanium"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "16 Pro Max",
+              "folder": "16_Pro_Max",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "16 Pro Max - Black Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_Black_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro Max",
+                  "color": "Black Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Pro Max - Desert Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_Desert_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro Max",
+                  "color": "Desert Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Pro Max - Natural Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_Natural_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro Max",
+                  "color": "Natural Titanium"
+                },
+                {
+                  "type": "asset",
+                  "name": "16 Pro Max - White Titanium",
+                  "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_White_Titanium.png",
+                  "format": "png",
+                  "device": "16 Pro Max",
+                  "color": "White Titanium"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "17 Pro",
+              "folder": "17_Pro",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "17 Pro - Cosmic Orange",
+                  "path": "Frames/Apple/iOS/17_Pro/17_Pro_-_Cosmic_Orange.png",
+                  "format": "png",
+                  "device": "17 Pro",
+                  "color": "Cosmic Orange"
+                },
+                {
+                  "type": "asset",
+                  "name": "17 Pro - Deep Blue",
+                  "path": "Frames/Apple/iOS/17_Pro/17_Pro_-_Deep_Blue.png",
+                  "format": "png",
+                  "device": "17 Pro",
+                  "color": "Deep Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "17 Pro - Silver",
+                  "path": "Frames/Apple/iOS/17_Pro/17_Pro_-_Silver.png",
+                  "format": "png",
+                  "device": "17 Pro",
+                  "color": "Silver"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "17 Pro Max",
+              "folder": "17_Pro_Max",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "17 Pro Max - Cosmic Orange",
+                  "path": "Frames/Apple/iOS/17_Pro_Max/17_Pro_Max_-_Cosmic_Orange.png",
+                  "format": "png",
+                  "device": "17 Pro Max",
+                  "color": "Cosmic Orange"
+                },
+                {
+                  "type": "asset",
+                  "name": "17 Pro Max - Deep Blue",
+                  "path": "Frames/Apple/iOS/17_Pro_Max/17_Pro_Max_-_Deep_Blue.png",
+                  "format": "png",
+                  "device": "17 Pro Max",
+                  "color": "Deep Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "17 Pro Max - Silver",
+                  "path": "Frames/Apple/iOS/17_Pro_Max/17_Pro_Max_-_Silver.png",
+                  "format": "png",
+                  "device": "17 Pro Max",
+                  "color": "Silver"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Air",
+              "folder": "Air",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Air - Cloud White",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Cloud_White.png",
+                  "format": "png",
+                  "device": "Air",
+                  "color": "Cloud White"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Cloud White",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Cloud_White.svg",
+                  "format": "svg",
+                  "device": "Air",
+                  "color": "Cloud White"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Light Gold",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Light_Gold.png",
+                  "format": "png",
+                  "device": "Air",
+                  "color": "Light Gold"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Light Gold",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Light_Gold.svg",
+                  "format": "svg",
+                  "device": "Air",
+                  "color": "Light Gold"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Sky Blue",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Sky_Blue.png",
+                  "format": "png",
+                  "device": "Air",
+                  "color": "Sky Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Sky Blue",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Sky_Blue.svg",
+                  "format": "svg",
+                  "device": "Air",
+                  "color": "Sky Blue"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Space Black",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Space_Black.png",
+                  "format": "png",
+                  "device": "Air",
+                  "color": "Space Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "Air - Space Black",
+                  "path": "Frames/Apple/iOS/Air/Air_-_Space_Black.svg",
+                  "format": "svg",
+                  "device": "Air",
+                  "color": "Space Black"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "iPadOS",
+          "folder": "iPadOS",
+          "children": [
+            {
+              "type": "group",
+              "name": "iPad Air",
+              "folder": "iPad_Air",
+              "children": [
+                {
+                  "type": "group",
+                  "name": "11",
+                  "folder": "11",
+                  "children": [
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Landscape - Blue",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Landscape_-_Blue.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Blue",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Landscape - Lavender",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Landscape_-_Lavender.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Lavender",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Landscape - Space Gray",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Landscape_-_Space_Gray.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Space Gray",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Landscape - Stardust",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Landscape_-_Stardust.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Stardust",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Portrait - Blue",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Portrait_-_Blue.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Blue",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Portrait - Lavender",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Portrait_-_Lavender.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Lavender",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Portrait - Space Gray",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Portrait_-_Space_Gray.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Space Gray",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 11 - Portrait - Stardust",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/11/iPad_Air_11_-_Portrait_-_Stardust.png",
+                      "format": "png",
+                      "device": "iPad Air 11",
+                      "color": "Stardust",
+                      "orientation": "Portrait"
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "name": "13",
+                  "folder": "13",
+                  "children": [
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Landscape - Blue",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Landscape_-_Blue.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Blue",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Landscape - Lavender",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Landscape_-_Lavender.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Lavender",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Landscape - Space Gray",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Landscape_-_Space_Gray.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Space Gray",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Landscape - Stardust",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Landscape_-_Stardust.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Stardust",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Portrait - Blue",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Portrait_-_Blue.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Blue",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Portrait - Lavender",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Portrait_-_Lavender.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Lavender",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Portrait - Space Gray",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Portrait_-_Space_Gray.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Space Gray",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Air 13 - Portrait - Stardust",
+                      "path": "Frames/Apple/iPadOS/iPad_Air/13/iPad_Air_13_-_Portrait_-_Stardust.png",
+                      "format": "png",
+                      "device": "iPad Air 13",
+                      "color": "Stardust",
+                      "orientation": "Portrait"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "iPad Pro",
+              "folder": "iPad_Pro",
+              "children": [
+                {
+                  "type": "group",
+                  "name": "11",
+                  "folder": "11",
+                  "children": [
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 11 - Landscape - Silver",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/11/iPad_Pro_11_-_Landscape_-_Silver.png",
+                      "format": "png",
+                      "device": "iPad Pro 11",
+                      "color": "Silver",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 11 - Landscape - Space Black",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/11/iPad_Pro_11_-_Landscape_-_Space_Black.png",
+                      "format": "png",
+                      "device": "iPad Pro 11",
+                      "color": "Space Black",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 11 - Portrait - Silver",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/11/iPad_Pro_11_-_Portrait_-_Silver.png",
+                      "format": "png",
+                      "device": "iPad Pro 11",
+                      "color": "Silver",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 11 - Portrait - Space Black",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/11/iPad_Pro_11_-_Portrait_-_Space_Black.png",
+                      "format": "png",
+                      "device": "iPad Pro 11",
+                      "color": "Space Black",
+                      "orientation": "Portrait"
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "name": "13",
+                  "folder": "13",
+                  "children": [
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 13 - Landscape - Silver",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/13/iPad_Pro_13_-_Landscape_-_Silver.png",
+                      "format": "png",
+                      "device": "iPad Pro 13",
+                      "color": "Silver",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 13 - Landscape - Space Black",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/13/iPad_Pro_13_-_Landscape_-_Space_Black.png",
+                      "format": "png",
+                      "device": "iPad Pro 13",
+                      "color": "Space Black",
+                      "orientation": "Landscape"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 13 - Portrait - Silver",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/13/iPad_Pro_13_-_Portrait_-_Silver.png",
+                      "format": "png",
+                      "device": "iPad Pro 13",
+                      "color": "Silver",
+                      "orientation": "Portrait"
+                    },
+                    {
+                      "type": "asset",
+                      "name": "iPad Pro 13 - Portrait - Space Black",
+                      "path": "Frames/Apple/iPadOS/iPad_Pro/13/iPad_Pro_13_-_Portrait_-_Space_Black.png",
+                      "format": "png",
+                      "device": "iPad Pro 13",
+                      "color": "Space Black",
+                      "orientation": "Portrait"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "iPad mini",
+              "folder": "iPad_mini",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "iPad mini - Landscape - Starlight",
+                  "path": "Frames/Apple/iPadOS/iPad_mini/iPad_mini_-_Landscape_-_Starlight.png",
+                  "format": "png",
+                  "device": "iPad mini",
+                  "color": "Starlight",
+                  "orientation": "Landscape"
+                },
+                {
+                  "type": "asset",
+                  "name": "iPad mini - Portrait - Starlight",
+                  "path": "Frames/Apple/iPadOS/iPad_mini/iPad_mini_-_Portrait_-_Starlight.png",
+                  "format": "png",
+                  "device": "iPad mini",
+                  "color": "Starlight",
+                  "orientation": "Portrait"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Windows",
+      "folder": "Windows",
+      "children": [
+        {
+          "type": "group",
+          "name": "Windows Desktop",
+          "folder": "Windows_Desktop",
+          "children": [
+            {
+              "type": "asset",
+              "name": "Dell UltraSharp 5K Monitor 27",
+              "path": "Frames/Windows/Windows_Desktop/Dell_UltraSharp_5K_Monitor_27.png",
+              "format": "png",
+              "device": "Dell UltraSharp 5K Monitor 27"
+            },
+            {
+              "type": "asset",
+              "name": "Huawei MateView",
+              "path": "Frames/Windows/Windows_Desktop/Huawei_MateView.png",
+              "format": "png",
+              "device": "Huawei MateView"
+            },
+            {
+              "type": "asset",
+              "name": "Samsung S90PC ViewFinity 5K",
+              "path": "Frames/Windows/Windows_Desktop/Samsung_S90PC_ViewFinity_5K.png",
+              "format": "png",
+              "device": "Samsung S90PC ViewFinity 5K"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "Windows Laptop",
+          "folder": "Windows_Laptop",
+          "children": [
+            {
+              "type": "group",
+              "name": "Dell",
+              "folder": "Dell",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "2023 XPS 13 Plus Black",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2023_XPS_13_Plus_Black.png",
+                  "format": "png",
+                  "device": "2023 XPS 13 Plus",
+                  "color": "Black"
+                },
+                {
+                  "type": "asset",
+                  "name": "2023 XPS 13 Plus White",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2023_XPS_13_Plus_White.png",
+                  "format": "png",
+                  "device": "2023 XPS 13 Plus",
+                  "color": "White"
+                },
+                {
+                  "type": "asset",
+                  "name": "2024 XPS 13 OLED Graphite",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_13_OLED_Graphite.png",
+                  "format": "png",
+                  "device": "2024 XPS 13 OLED",
+                  "color": "Graphite"
+                },
+                {
+                  "type": "asset",
+                  "name": "2024 XPS 13 OLED Platinum",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_13_OLED_Platinum.png",
+                  "format": "png",
+                  "device": "2024 XPS 13 OLED",
+                  "color": "Platinum"
+                },
+                {
+                  "type": "asset",
+                  "name": "2024 XPS 14 Graphite",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_14_Graphite.png",
+                  "format": "png",
+                  "device": "2024 XPS 14",
+                  "color": "Graphite"
+                },
+                {
+                  "type": "asset",
+                  "name": "2024 XPS 14 Platinum",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_14_Platinum.png",
+                  "format": "png",
+                  "device": "2024 XPS 14",
+                  "color": "Platinum"
+                },
+                {
+                  "type": "asset",
+                  "name": "2024 XPS 16 Graphite",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_16_Graphite.png",
+                  "format": "png",
+                  "device": "2024 XPS 16",
+                  "color": "Graphite"
+                },
+                {
+                  "type": "asset",
+                  "name": "2024 XPS 16 Platinum",
+                  "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_16_Platinum.png",
+                  "format": "png",
+                  "device": "2024 XPS 16",
+                  "color": "Platinum"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Lenovo",
+              "folder": "Lenovo",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "ThinkPad P14s Gen 5",
+                  "path": "Frames/Windows/Windows_Laptop/Lenovo/ThinkPad_P14s_Gen_5.png",
+                  "format": "png",
+                  "device": "ThinkPad P14s Gen 5"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Microsoft",
+              "folder": "Microsoft",
+              "children": [
+                {
+                  "type": "asset",
+                  "name": "Surface Laptop 13 - Platinum",
+                  "path": "Frames/Windows/Windows_Laptop/Microsoft/Surface_Laptop_13_-_Platinum.png",
+                  "format": "png",
+                  "device": "Surface Laptop 13",
+                  "color": "Platinum"
+                },
+                {
+                  "type": "asset",
+                  "name": "Surface Laptop 15 - Platinum",
+                  "path": "Frames/Windows/Windows_Laptop/Microsoft/Surface_Laptop_15_-_Platinum.png",
+                  "format": "png",
+                  "device": "Surface Laptop 15",
+                  "color": "Platinum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
