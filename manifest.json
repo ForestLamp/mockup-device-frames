@@ -24,7 +24,13 @@
                   "path": "Frames/Android/Phone/Pixel_8/Pixel_8_Hazel.png",
                   "format": "png",
                   "device": "Pixel 8",
-                  "color": "Hazel"
+                  "color": "Hazel",
+                  "screenRect": {
+                    "x": 0.1214,
+                    "y": 0.06,
+                    "width": 0.7572,
+                    "height": 0.8783
+                  }
                 }
               ]
             },
@@ -39,7 +45,13 @@
                   "path": "Frames/Android/Phone/Pixel_8_Pro/Pixel_8_Pro_Black.png",
                   "format": "png",
                   "device": "Pixel 8 Pro",
-                  "color": "Black"
+                  "color": "Black",
+                  "screenRect": {
+                    "x": 0.1161,
+                    "y": 0.055,
+                    "width": 0.7677,
+                    "height": 0.8883
+                  }
                 },
                 {
                   "type": "asset",
@@ -47,7 +59,13 @@
                   "path": "Frames/Android/Phone/Pixel_8_Pro/Pixel_8_Pro_Blue.png",
                   "format": "png",
                   "device": "Pixel 8 Pro",
-                  "color": "Blue"
+                  "color": "Blue",
+                  "screenRect": {
+                    "x": 0.1161,
+                    "y": 0.055,
+                    "width": 0.7677,
+                    "height": 0.8883
+                  }
                 },
                 {
                   "type": "asset",
@@ -55,7 +73,13 @@
                   "path": "Frames/Android/Phone/Pixel_8_Pro/Pixel_8_Pro_Silver.png",
                   "format": "png",
                   "device": "Pixel 8 Pro",
-                  "color": "Silver"
+                  "color": "Silver",
+                  "screenRect": {
+                    "x": 0.1161,
+                    "y": 0.055,
+                    "width": 0.7677,
+                    "height": 0.8883
+                  }
                 }
               ]
             },
@@ -70,7 +94,13 @@
                   "path": "Frames/Android/Phone/Pixel_9_Pro/Pixel_9_Pro_Hazel.png",
                   "format": "png",
                   "device": "Pixel 9 Pro",
-                  "color": "Hazel"
+                  "color": "Hazel",
+                  "screenRect": {
+                    "x": 0.1068,
+                    "y": 0.0467,
+                    "width": 0.7864,
+                    "height": 0.9083
+                  }
                 },
                 {
                   "type": "asset",
@@ -78,7 +108,13 @@
                   "path": "Frames/Android/Phone/Pixel_9_Pro/Pixel_9_Pro_Obsidian.png",
                   "format": "png",
                   "device": "Pixel 9 Pro",
-                  "color": "Obsidian"
+                  "color": "Obsidian",
+                  "screenRect": {
+                    "x": 0.1068,
+                    "y": 0.0467,
+                    "width": 0.7864,
+                    "height": 0.9083
+                  }
                 },
                 {
                   "type": "asset",
@@ -86,7 +122,13 @@
                   "path": "Frames/Android/Phone/Pixel_9_Pro/Pixel_9_Pro_Rose_Quartz.png",
                   "format": "png",
                   "device": "Pixel 9 Pro",
-                  "color": "Rose Quartz"
+                  "color": "Rose Quartz",
+                  "screenRect": {
+                    "x": 0.1068,
+                    "y": 0.0467,
+                    "width": 0.7864,
+                    "height": 0.9083
+                  }
                 }
               ]
             },
@@ -101,7 +143,13 @@
                   "path": "Frames/Android/Phone/Pixel_9_Pro_XL/Pixel_9_Pro_XL_Hazel.png",
                   "format": "png",
                   "device": "Pixel 9 Pro XL",
-                  "color": "Hazel"
+                  "color": "Hazel",
+                  "screenRect": {
+                    "x": 0.1039,
+                    "y": 0.0433,
+                    "width": 0.7922,
+                    "height": 0.9133
+                  }
                 },
                 {
                   "type": "asset",
@@ -109,7 +157,13 @@
                   "path": "Frames/Android/Phone/Pixel_9_Pro_XL/Pixel_9_Pro_XL_Obsidian.png",
                   "format": "png",
                   "device": "Pixel 9 Pro XL",
-                  "color": "Obsidian"
+                  "color": "Obsidian",
+                  "screenRect": {
+                    "x": 0.1039,
+                    "y": 0.0433,
+                    "width": 0.7922,
+                    "height": 0.9133
+                  }
                 },
                 {
                   "type": "asset",
@@ -117,7 +171,13 @@
                   "path": "Frames/Android/Phone/Pixel_9_Pro_XL/Pixel_9_Pro_XL_Rose_Quartz.png",
                   "format": "png",
                   "device": "Pixel 9 Pro XL",
-                  "color": "Rose Quartz"
+                  "color": "Rose Quartz",
+                  "screenRect": {
+                    "x": 0.1039,
+                    "y": 0.0433,
+                    "width": 0.7922,
+                    "height": 0.9133
+                  }
                 }
               ]
             }
@@ -139,7 +199,13 @@
                   "path": "Frames/Android/Tablet/Pixel/Pixel_Tablet_Hazel.png",
                   "format": "png",
                   "device": "Pixel Tablet",
-                  "color": "Hazel"
+                  "color": "Hazel",
+                  "screenRect": {
+                    "x": 0.065,
+                    "y": 0.0961,
+                    "width": 0.87,
+                    "height": 0.8079
+                  }
                 },
                 {
                   "type": "asset",
@@ -147,7 +213,13 @@
                   "path": "Frames/Android/Tablet/Pixel/Pixel_Tablet_Porcelain.png",
                   "format": "png",
                   "device": "Pixel Tablet",
-                  "color": "Porcelain"
+                  "color": "Porcelain",
+                  "screenRect": {
+                    "x": 0.065,
+                    "y": 0.0961,
+                    "width": 0.87,
+                    "height": 0.8079
+                  }
                 }
               ]
             },
@@ -161,7 +233,13 @@
                   "name": "Samsung Galaxy Tab S11 Ultra",
                   "path": "Frames/Android/Tablet/Samsung_Galaxy_Tab_S11_Ultra/Samsung_Galaxy_Tab_S11_Ultra.png",
                   "format": "png",
-                  "device": "Samsung Galaxy Tab S11 Ultra"
+                  "device": "Samsung Galaxy Tab S11 Ultra",
+                  "screenRect": {
+                    "x": 0.06,
+                    "y": 0.0923,
+                    "width": 0.88,
+                    "height": 0.818
+                  }
                 }
               ]
             }
@@ -184,7 +262,13 @@
               "name": "MacBook Air 13",
               "path": "Frames/Apple/MacBook/MacBook_Air_13.png",
               "format": "png",
-              "device": "MacBook Air 13"
+              "device": "MacBook Air 13",
+              "screenRect": {
+                "x": 0.1083,
+                "y": 0.1181,
+                "width": 0.7833,
+                "height": 0.7638
+              }
             },
             {
               "type": "asset",
@@ -194,14 +278,26 @@
               "device": "MacBook Air 13",
               "tags": [
                 "Menu Bar"
-              ]
+              ],
+              "screenRect": {
+                "x": 0.1083,
+                "y": 0.1457,
+                "width": 0.7833,
+                "height": 0.7362
+              }
             },
             {
               "type": "asset",
               "name": "MacBook Air 15",
               "path": "Frames/Apple/MacBook/MacBook_Air_15.png",
               "format": "png",
-              "device": "MacBook Air 15"
+              "device": "MacBook Air 15",
+              "screenRect": {
+                "x": 0.0983,
+                "y": 0.1061,
+                "width": 0.8033,
+                "height": 0.7879
+              }
             },
             {
               "type": "asset",
@@ -211,14 +307,26 @@
               "device": "MacBook Air 15",
               "tags": [
                 "Menu Bar"
-              ]
+              ],
+              "screenRect": {
+                "x": 0.0983,
+                "y": 0.1313,
+                "width": 0.8033,
+                "height": 0.7626
+              }
             },
             {
               "type": "asset",
               "name": "MacBook Pro 14",
               "path": "Frames/Apple/MacBook/MacBook_Pro_14.png",
               "format": "png",
-              "device": "MacBook Pro 14"
+              "device": "MacBook Pro 14",
+              "screenRect": {
+                "x": 0.1183,
+                "y": 0.1179,
+                "width": 0.7633,
+                "height": 0.7641
+              }
             },
             {
               "type": "asset",
@@ -228,14 +336,26 @@
               "device": "MacBook Pro 14",
               "tags": [
                 "Menu Bar"
-              ]
+              ],
+              "screenRect": {
+                "x": 0.105,
+                "y": 0.1468,
+                "width": 0.79,
+                "height": 0.7338
+              }
             },
             {
               "type": "asset",
               "name": "MacBook Pro 16",
               "path": "Frames/Apple/MacBook/MacBook_Pro_16.png",
               "format": "png",
-              "device": "MacBook Pro 16"
+              "device": "MacBook Pro 16",
+              "screenRect": {
+                "x": 0.1033,
+                "y": 0.1114,
+                "width": 0.7933,
+                "height": 0.7772
+              }
             },
             {
               "type": "asset",
@@ -245,7 +365,13 @@
               "device": "MacBook Pro 16",
               "tags": [
                 "Menu Bar"
-              ]
+              ],
+              "screenRect": {
+                "x": 0.1033,
+                "y": 0.1367,
+                "width": 0.7933,
+                "height": 0.7519
+              }
             }
           ]
         },
@@ -264,7 +390,13 @@
                   "name": "Pro Display XDR",
                   "path": "Frames/Apple/Mac_Desktop/Pro_Display_XDR/Pro_Display_XDR.png",
                   "format": "png",
-                  "device": "Pro Display XDR"
+                  "device": "Pro Display XDR",
+                  "screenRect": {
+                    "x": 0.0317,
+                    "y": 0.0419,
+                    "width": 0.9367,
+                    "height": 0.6938
+                  }
                 }
               ]
             },
@@ -278,7 +410,13 @@
                   "name": "Studio Display",
                   "path": "Frames/Apple/Mac_Desktop/Studio_Display/Studio_Display.png",
                   "format": "png",
-                  "device": "Studio Display"
+                  "device": "Studio Display",
+                  "screenRect": {
+                    "x": 0.0367,
+                    "y": 0.0469,
+                    "width": 0.9267,
+                    "height": 0.6652
+                  }
                 }
               ]
             },
@@ -293,7 +431,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Blue.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Blue"
+                  "color": "Blue",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -304,7 +448,13 @@
                   "color": "Blue",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -312,7 +462,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Green.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Green"
+                  "color": "Green",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -323,7 +479,13 @@
                   "color": "Green",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -331,7 +493,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Orange.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Orange"
+                  "color": "Orange",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -342,7 +510,13 @@
                   "color": "Orange",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -350,7 +524,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Purple.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Purple"
+                  "color": "Purple",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -361,7 +541,13 @@
                   "color": "Purple",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -369,7 +555,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Red.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Red"
+                  "color": "Red",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -380,7 +572,13 @@
                   "color": "Red",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -388,7 +586,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Silver.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Silver"
+                  "color": "Silver",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -399,7 +603,13 @@
                   "color": "Silver",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -407,7 +617,13 @@
                   "path": "Frames/Apple/Mac_Desktop/iMac_24/iMac_24_-_Yellow.png",
                   "format": "png",
                   "device": "iMac 24",
-                  "color": "Yellow"
+                  "color": "Yellow",
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 },
                 {
                   "type": "asset",
@@ -418,7 +634,13 @@
                   "color": "Yellow",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0411,
+                    "y": 0.28,
+                    "width": 0.9178,
+                    "height": 0.44
+                  }
                 }
               ]
             }
@@ -440,7 +662,13 @@
                   "path": "Frames/Apple/iOS/13_mini/13_mini_Black.png",
                   "format": "png",
                   "device": "13 mini",
-                  "color": "Black"
+                  "color": "Black",
+                  "screenRect": {
+                    "x": 0.0795,
+                    "y": 0.0833,
+                    "width": 0.8411,
+                    "height": 0.8767
+                  }
                 },
                 {
                   "type": "asset",
@@ -448,7 +676,13 @@
                   "path": "Frames/Apple/iOS/13_mini/13_mini_Blue.png",
                   "format": "png",
                   "device": "13 mini",
-                  "color": "Blue"
+                  "color": "Blue",
+                  "screenRect": {
+                    "x": 0.0795,
+                    "y": 0.0833,
+                    "width": 0.8411,
+                    "height": 0.8767
+                  }
                 },
                 {
                   "type": "asset",
@@ -456,7 +690,13 @@
                   "path": "Frames/Apple/iOS/13_mini/13_mini_Pink.png",
                   "format": "png",
                   "device": "13 mini",
-                  "color": "Pink"
+                  "color": "Pink",
+                  "screenRect": {
+                    "x": 0.0795,
+                    "y": 0.0833,
+                    "width": 0.8411,
+                    "height": 0.8767
+                  }
                 },
                 {
                   "type": "asset",
@@ -464,7 +704,13 @@
                   "path": "Frames/Apple/iOS/13_mini/13_mini_ProductRED.png",
                   "format": "png",
                   "device": "13 mini",
-                  "color": "ProductRED"
+                  "color": "ProductRED",
+                  "screenRect": {
+                    "x": 0.0795,
+                    "y": 0.0833,
+                    "width": 0.8411,
+                    "height": 0.8767
+                  }
                 },
                 {
                   "type": "asset",
@@ -472,7 +718,13 @@
                   "path": "Frames/Apple/iOS/13_mini/13_mini_Starlight.png",
                   "format": "png",
                   "device": "13 mini",
-                  "color": "Starlight"
+                  "color": "Starlight",
+                  "screenRect": {
+                    "x": 0.0795,
+                    "y": 0.0833,
+                    "width": 0.8411,
+                    "height": 0.8767
+                  }
                 }
               ]
             },
@@ -487,7 +739,13 @@
                   "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Deep_Purple.png",
                   "format": "png",
                   "device": "14 Pro Max",
-                  "color": "Deep Purple"
+                  "color": "Deep Purple",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -498,7 +756,13 @@
                   "color": "Deep Purple",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -506,7 +770,13 @@
                   "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Gold.png",
                   "format": "png",
                   "device": "14 Pro Max",
-                  "color": "Gold"
+                  "color": "Gold",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -517,7 +787,13 @@
                   "color": "Gold",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -525,7 +801,13 @@
                   "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Silver.png",
                   "format": "png",
                   "device": "14 Pro Max",
-                  "color": "Silver"
+                  "color": "Silver",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -536,7 +818,13 @@
                   "color": "Silver",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -544,7 +832,13 @@
                   "path": "Frames/Apple/iOS/14_Pro_Max/14_Pro_Max_-_Space_Black.png",
                   "format": "png",
                   "device": "14 Pro Max",
-                  "color": "Space Black"
+                  "color": "Space Black",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -555,7 +849,13 @@
                   "color": "Space Black",
                   "tags": [
                     "Shadow"
-                  ]
+                  ],
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 }
               ]
             },
@@ -570,7 +870,13 @@
                   "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_Black_Titanium.png",
                   "format": "png",
                   "device": "15 Pro Max",
-                  "color": "Black Titanium"
+                  "color": "Black Titanium",
+                  "screenRect": {
+                    "x": 0.0671,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -578,7 +884,13 @@
                   "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_Blue_Titanium.png",
                   "format": "png",
                   "device": "15 Pro Max",
-                  "color": "Blue Titanium"
+                  "color": "Blue Titanium",
+                  "screenRect": {
+                    "x": 0.0671,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -586,7 +898,13 @@
                   "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_Natural_Titanium.png",
                   "format": "png",
                   "device": "15 Pro Max",
-                  "color": "Natural Titanium"
+                  "color": "Natural Titanium",
+                  "screenRect": {
+                    "x": 0.0671,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -594,7 +912,13 @@
                   "path": "Frames/Apple/iOS/15_Pro_Max/15_Pro_Max_-_White_Titanium.png",
                   "format": "png",
                   "device": "15 Pro Max",
-                  "color": "White Titanium"
+                  "color": "White Titanium",
+                  "screenRect": {
+                    "x": 0.0671,
+                    "y": 0.07,
+                    "width": 0.8624,
+                    "height": 0.895
+                  }
                 }
               ]
             },
@@ -609,7 +933,13 @@
                   "path": "Frames/Apple/iOS/16/16_-_Black.png",
                   "format": "png",
                   "device": "16",
-                  "color": "Black"
+                  "color": "Black",
+                  "screenRect": {
+                    "x": 0.0733,
+                    "y": 0.0833,
+                    "width": 0.8533,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -617,7 +947,13 @@
                   "path": "Frames/Apple/iOS/16/16_-_Pink.png",
                   "format": "png",
                   "device": "16",
-                  "color": "Pink"
+                  "color": "Pink",
+                  "screenRect": {
+                    "x": 0.0733,
+                    "y": 0.0833,
+                    "width": 0.8533,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -625,7 +961,13 @@
                   "path": "Frames/Apple/iOS/16/16_-_Teal.png",
                   "format": "png",
                   "device": "16",
-                  "color": "Teal"
+                  "color": "Teal",
+                  "screenRect": {
+                    "x": 0.0733,
+                    "y": 0.0833,
+                    "width": 0.8533,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -633,7 +975,13 @@
                   "path": "Frames/Apple/iOS/16/16_-_Ultramarine.png",
                   "format": "png",
                   "device": "16",
-                  "color": "Ultramarine"
+                  "color": "Ultramarine",
+                  "screenRect": {
+                    "x": 0.0733,
+                    "y": 0.0833,
+                    "width": 0.8533,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -641,7 +989,13 @@
                   "path": "Frames/Apple/iOS/16/16_-_White.png",
                   "format": "png",
                   "device": "16",
-                  "color": "White"
+                  "color": "White",
+                  "screenRect": {
+                    "x": 0.0733,
+                    "y": 0.0833,
+                    "width": 0.8533,
+                    "height": 0.88
+                  }
                 }
               ]
             },
@@ -656,7 +1010,13 @@
                   "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Black.png",
                   "format": "png",
                   "device": "16 Plus",
-                  "color": "Black"
+                  "color": "Black",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8591,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -664,7 +1024,13 @@
                   "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Pink.png",
                   "format": "png",
                   "device": "16 Plus",
-                  "color": "Pink"
+                  "color": "Pink",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8591,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -672,7 +1038,13 @@
                   "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Teal.png",
                   "format": "png",
                   "device": "16 Plus",
-                  "color": "Teal"
+                  "color": "Teal",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8591,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -680,7 +1052,13 @@
                   "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_Ultramarine.png",
                   "format": "png",
                   "device": "16 Plus",
-                  "color": "Ultramarine"
+                  "color": "Ultramarine",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8591,
+                    "height": 0.895
+                  }
                 },
                 {
                   "type": "asset",
@@ -688,7 +1066,13 @@
                   "path": "Frames/Apple/iOS/16_Plus/16_Plus_-_White.png",
                   "format": "png",
                   "device": "16 Plus",
-                  "color": "White"
+                  "color": "White",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.07,
+                    "width": 0.8591,
+                    "height": 0.895
+                  }
                 }
               ]
             },
@@ -703,7 +1087,13 @@
                   "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_Black_Titanium.png",
                   "format": "png",
                   "device": "16 Pro",
-                  "color": "Black Titanium"
+                  "color": "Black Titanium",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0817,
+                    "width": 0.8557,
+                    "height": 0.8817
+                  }
                 },
                 {
                   "type": "asset",
@@ -711,7 +1101,13 @@
                   "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_Desert_Titanium.png",
                   "format": "png",
                   "device": "16 Pro",
-                  "color": "Desert Titanium"
+                  "color": "Desert Titanium",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0817,
+                    "width": 0.8523,
+                    "height": 0.8817
+                  }
                 },
                 {
                   "type": "asset",
@@ -719,7 +1115,13 @@
                   "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_Natural_Titanium.png",
                   "format": "png",
                   "device": "16 Pro",
-                  "color": "Natural Titanium"
+                  "color": "Natural Titanium",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0833,
+                    "width": 0.8523,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -727,7 +1129,13 @@
                   "path": "Frames/Apple/iOS/16_Pro/16_Pro_-_White_Titanium.png",
                   "format": "png",
                   "device": "16 Pro",
-                  "color": "White Titanium"
+                  "color": "White Titanium",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0817,
+                    "width": 0.8557,
+                    "height": 0.8817
+                  }
                 }
               ]
             },
@@ -742,7 +1150,13 @@
                   "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_Black_Titanium.png",
                   "format": "png",
                   "device": "16 Pro Max",
-                  "color": "Black Titanium"
+                  "color": "Black Titanium",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.0683,
+                    "width": 0.8653,
+                    "height": 0.8983
+                  }
                 },
                 {
                   "type": "asset",
@@ -750,7 +1164,13 @@
                   "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_Desert_Titanium.png",
                   "format": "png",
                   "device": "16 Pro Max",
-                  "color": "Desert Titanium"
+                  "color": "Desert Titanium",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.0683,
+                    "width": 0.8653,
+                    "height": 0.8983
+                  }
                 },
                 {
                   "type": "asset",
@@ -758,7 +1178,13 @@
                   "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_Natural_Titanium.png",
                   "format": "png",
                   "device": "16 Pro Max",
-                  "color": "Natural Titanium"
+                  "color": "Natural Titanium",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.0683,
+                    "width": 0.8653,
+                    "height": 0.8983
+                  }
                 },
                 {
                   "type": "asset",
@@ -766,7 +1192,13 @@
                   "path": "Frames/Apple/iOS/16_Pro_Max/16_Pro_Max_-_White_Titanium.png",
                   "format": "png",
                   "device": "16 Pro Max",
-                  "color": "White Titanium"
+                  "color": "White Titanium",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.0683,
+                    "width": 0.8653,
+                    "height": 0.8983
+                  }
                 }
               ]
             },
@@ -781,7 +1213,13 @@
                   "path": "Frames/Apple/iOS/17_Pro/17_Pro_-_Cosmic_Orange.png",
                   "format": "png",
                   "device": "17 Pro",
-                  "color": "Cosmic Orange"
+                  "color": "Cosmic Orange",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0833,
+                    "width": 0.8523,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -789,7 +1227,13 @@
                   "path": "Frames/Apple/iOS/17_Pro/17_Pro_-_Deep_Blue.png",
                   "format": "png",
                   "device": "17 Pro",
-                  "color": "Deep Blue"
+                  "color": "Deep Blue",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0833,
+                    "width": 0.8523,
+                    "height": 0.88
+                  }
                 },
                 {
                   "type": "asset",
@@ -797,7 +1241,13 @@
                   "path": "Frames/Apple/iOS/17_Pro/17_Pro_-_Silver.png",
                   "format": "png",
                   "device": "17 Pro",
-                  "color": "Silver"
+                  "color": "Silver",
+                  "screenRect": {
+                    "x": 0.0738,
+                    "y": 0.0833,
+                    "width": 0.8523,
+                    "height": 0.88
+                  }
                 }
               ]
             },
@@ -812,7 +1262,13 @@
                   "path": "Frames/Apple/iOS/17_Pro_Max/17_Pro_Max_-_Cosmic_Orange.png",
                   "format": "png",
                   "device": "17 Pro Max",
-                  "color": "Cosmic Orange"
+                  "color": "Cosmic Orange",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.07,
+                    "width": 0.8653,
+                    "height": 0.8967
+                  }
                 },
                 {
                   "type": "asset",
@@ -820,7 +1276,13 @@
                   "path": "Frames/Apple/iOS/17_Pro_Max/17_Pro_Max_-_Deep_Blue.png",
                   "format": "png",
                   "device": "17 Pro Max",
-                  "color": "Deep Blue"
+                  "color": "Deep Blue",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.07,
+                    "width": 0.8653,
+                    "height": 0.8967
+                  }
                 },
                 {
                   "type": "asset",
@@ -828,7 +1290,13 @@
                   "path": "Frames/Apple/iOS/17_Pro_Max/17_Pro_Max_-_Silver.png",
                   "format": "png",
                   "device": "17 Pro Max",
-                  "color": "Silver"
+                  "color": "Silver",
+                  "screenRect": {
+                    "x": 0.0673,
+                    "y": 0.07,
+                    "width": 0.8653,
+                    "height": 0.8967
+                  }
                 }
               ]
             },
@@ -843,7 +1311,13 @@
                   "path": "Frames/Apple/iOS/Air/Air_-_Cloud_White.png",
                   "format": "png",
                   "device": "Air",
-                  "color": "Cloud White"
+                  "color": "Cloud White",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.0817,
+                    "width": 0.8591,
+                    "height": 0.8833
+                  }
                 },
                 {
                   "type": "asset",
@@ -859,7 +1333,13 @@
                   "path": "Frames/Apple/iOS/Air/Air_-_Light_Gold.png",
                   "format": "png",
                   "device": "Air",
-                  "color": "Light Gold"
+                  "color": "Light Gold",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.0817,
+                    "width": 0.8591,
+                    "height": 0.8833
+                  }
                 },
                 {
                   "type": "asset",
@@ -875,7 +1355,13 @@
                   "path": "Frames/Apple/iOS/Air/Air_-_Sky_Blue.png",
                   "format": "png",
                   "device": "Air",
-                  "color": "Sky Blue"
+                  "color": "Sky Blue",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.0817,
+                    "width": 0.8591,
+                    "height": 0.8833
+                  }
                 },
                 {
                   "type": "asset",
@@ -891,7 +1377,13 @@
                   "path": "Frames/Apple/iOS/Air/Air_-_Space_Black.png",
                   "format": "png",
                   "device": "Air",
-                  "color": "Space Black"
+                  "color": "Space Black",
+                  "screenRect": {
+                    "x": 0.0705,
+                    "y": 0.08,
+                    "width": 0.8591,
+                    "height": 0.885
+                  }
                 },
                 {
                   "type": "asset",
@@ -927,7 +1419,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Blue",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.0467,
+                        "y": 0.0647,
+                        "width": 0.9067,
+                        "height": 0.8707
+                      }
                     },
                     {
                       "type": "asset",
@@ -936,7 +1434,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Lavender",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.0467,
+                        "y": 0.0647,
+                        "width": 0.9067,
+                        "height": 0.8707
+                      }
                     },
                     {
                       "type": "asset",
@@ -945,7 +1449,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Space Gray",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.0467,
+                        "y": 0.0647,
+                        "width": 0.9067,
+                        "height": 0.8707
+                      }
                     },
                     {
                       "type": "asset",
@@ -954,7 +1464,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Stardust",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.0467,
+                        "y": 0.0647,
+                        "width": 0.9067,
+                        "height": 0.8707
+                      }
                     },
                     {
                       "type": "asset",
@@ -963,7 +1479,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Blue",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0647,
+                        "y": 0.0467,
+                        "width": 0.8707,
+                        "height": 0.9067
+                      }
                     },
                     {
                       "type": "asset",
@@ -972,7 +1494,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Lavender",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0647,
+                        "y": 0.0467,
+                        "width": 0.8707,
+                        "height": 0.9067
+                      }
                     },
                     {
                       "type": "asset",
@@ -981,7 +1509,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Space Gray",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0647,
+                        "y": 0.0467,
+                        "width": 0.8707,
+                        "height": 0.9067
+                      }
                     },
                     {
                       "type": "asset",
@@ -990,7 +1524,13 @@
                       "format": "png",
                       "device": "iPad Air 11",
                       "color": "Stardust",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0647,
+                        "y": 0.0467,
+                        "width": 0.8707,
+                        "height": 0.9067
+                      }
                     }
                   ]
                 },
@@ -1006,7 +1546,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Blue",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.035,
+                        "y": 0.0457,
+                        "width": 0.93,
+                        "height": 0.9087
+                      }
                     },
                     {
                       "type": "asset",
@@ -1015,7 +1561,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Lavender",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.035,
+                        "y": 0.0457,
+                        "width": 0.93,
+                        "height": 0.9087
+                      }
                     },
                     {
                       "type": "asset",
@@ -1024,7 +1576,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Space Gray",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.035,
+                        "y": 0.0457,
+                        "width": 0.93,
+                        "height": 0.9087
+                      }
                     },
                     {
                       "type": "asset",
@@ -1033,7 +1591,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Stardust",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.035,
+                        "y": 0.0457,
+                        "width": 0.93,
+                        "height": 0.9087
+                      }
                     },
                     {
                       "type": "asset",
@@ -1042,7 +1606,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Blue",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0457,
+                        "y": 0.035,
+                        "width": 0.9087,
+                        "height": 0.93
+                      }
                     },
                     {
                       "type": "asset",
@@ -1051,7 +1621,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Lavender",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0457,
+                        "y": 0.035,
+                        "width": 0.9087,
+                        "height": 0.93
+                      }
                     },
                     {
                       "type": "asset",
@@ -1060,7 +1636,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Space Gray",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0457,
+                        "y": 0.035,
+                        "width": 0.9087,
+                        "height": 0.93
+                      }
                     },
                     {
                       "type": "asset",
@@ -1069,7 +1651,13 @@
                       "format": "png",
                       "device": "iPad Air 13",
                       "color": "Stardust",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0457,
+                        "y": 0.035,
+                        "width": 0.9087,
+                        "height": 0.93
+                      }
                     }
                   ]
                 }
@@ -1092,7 +1680,13 @@
                       "format": "png",
                       "device": "iPad Pro 11",
                       "color": "Silver",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.0383,
+                        "y": 0.0539,
+                        "width": 0.9233,
+                        "height": 0.8923
+                      }
                     },
                     {
                       "type": "asset",
@@ -1101,7 +1695,13 @@
                       "format": "png",
                       "device": "iPad Pro 11",
                       "color": "Space Black",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.0383,
+                        "y": 0.0539,
+                        "width": 0.9233,
+                        "height": 0.8923
+                      }
                     },
                     {
                       "type": "asset",
@@ -1110,7 +1710,13 @@
                       "format": "png",
                       "device": "iPad Pro 11",
                       "color": "Silver",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0539,
+                        "y": 0.0383,
+                        "width": 0.8899,
+                        "height": 0.9233
+                      }
                     },
                     {
                       "type": "asset",
@@ -1119,7 +1725,13 @@
                       "format": "png",
                       "device": "iPad Pro 11",
                       "color": "Space Black",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0539,
+                        "y": 0.0383,
+                        "width": 0.8899,
+                        "height": 0.9233
+                      }
                     }
                   ]
                 },
@@ -1135,7 +1747,13 @@
                       "format": "png",
                       "device": "iPad Pro 13",
                       "color": "Silver",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.035,
+                        "y": 0.0457,
+                        "width": 0.93,
+                        "height": 0.9087
+                      }
                     },
                     {
                       "type": "asset",
@@ -1144,7 +1762,13 @@
                       "format": "png",
                       "device": "iPad Pro 13",
                       "color": "Space Black",
-                      "orientation": "Landscape"
+                      "orientation": "Landscape",
+                      "screenRect": {
+                        "x": 0.035,
+                        "y": 0.0457,
+                        "width": 0.93,
+                        "height": 0.9087
+                      }
                     },
                     {
                       "type": "asset",
@@ -1153,7 +1777,13 @@
                       "format": "png",
                       "device": "iPad Pro 13",
                       "color": "Silver",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0457,
+                        "y": 0.035,
+                        "width": 0.9087,
+                        "height": 0.93
+                      }
                     },
                     {
                       "type": "asset",
@@ -1162,7 +1792,13 @@
                       "format": "png",
                       "device": "iPad Pro 13",
                       "color": "Space Black",
-                      "orientation": "Portrait"
+                      "orientation": "Portrait",
+                      "screenRect": {
+                        "x": 0.0457,
+                        "y": 0.035,
+                        "width": 0.9087,
+                        "height": 0.93
+                      }
                     }
                   ]
                 }
@@ -1180,7 +1816,13 @@
                   "format": "png",
                   "device": "iPad mini",
                   "color": "Starlight",
-                  "orientation": "Landscape"
+                  "orientation": "Landscape",
+                  "screenRect": {
+                    "x": 0.0767,
+                    "y": 0.1085,
+                    "width": 0.8467,
+                    "height": 0.7854
+                  }
                 },
                 {
                   "type": "asset",
@@ -1189,7 +1831,13 @@
                   "format": "png",
                   "device": "iPad mini",
                   "color": "Starlight",
-                  "orientation": "Portrait"
+                  "orientation": "Portrait",
+                  "screenRect": {
+                    "x": 0.1061,
+                    "y": 0.0767,
+                    "width": 0.7854,
+                    "height": 0.8467
+                  }
                 }
               ]
             }
@@ -1212,21 +1860,39 @@
               "name": "Dell UltraSharp 5K Monitor 27",
               "path": "Frames/Windows/Windows_Desktop/Dell_UltraSharp_5K_Monitor_27.png",
               "format": "png",
-              "device": "Dell UltraSharp 5K Monitor 27"
+              "device": "Dell UltraSharp 5K Monitor 27",
+              "screenRect": {
+                "x": 0.0532,
+                "y": 0.2567,
+                "width": 0.8937,
+                "height": 0.4867
+              }
             },
             {
               "type": "asset",
               "name": "Huawei MateView",
               "path": "Frames/Windows/Windows_Desktop/Huawei_MateView.png",
               "format": "png",
-              "device": "Huawei MateView"
+              "device": "Huawei MateView",
+              "screenRect": {
+                "x": 0.0483,
+                "y": 0.0537,
+                "width": 0.9033,
+                "height": 0.6667
+              }
             },
             {
               "type": "asset",
               "name": "Samsung S90PC ViewFinity 5K",
               "path": "Frames/Windows/Windows_Desktop/Samsung_S90PC_ViewFinity_5K.png",
               "format": "png",
-              "device": "Samsung S90PC ViewFinity 5K"
+              "device": "Samsung S90PC ViewFinity 5K",
+              "screenRect": {
+                "x": 0.0367,
+                "y": 0.0494,
+                "width": 0.9267,
+                "height": 0.7011
+              }
             }
           ]
         },
@@ -1246,7 +1912,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2023_XPS_13_Plus_Black.png",
                   "format": "png",
                   "device": "2023 XPS 13 Plus",
-                  "color": "Black"
+                  "color": "Black",
+                  "screenRect": {
+                    "x": 0.115,
+                    "y": 0.0835,
+                    "width": 0.7717,
+                    "height": 0.6874
+                  }
                 },
                 {
                   "type": "asset",
@@ -1254,7 +1926,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2023_XPS_13_Plus_White.png",
                   "format": "png",
                   "device": "2023 XPS 13 Plus",
-                  "color": "White"
+                  "color": "White",
+                  "screenRect": {
+                    "x": 0.115,
+                    "y": 0.0835,
+                    "width": 0.7717,
+                    "height": 0.6874
+                  }
                 },
                 {
                   "type": "asset",
@@ -1262,7 +1940,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_13_OLED_Graphite.png",
                   "format": "png",
                   "device": "2024 XPS 13 OLED",
-                  "color": "Graphite"
+                  "color": "Graphite",
+                  "screenRect": {
+                    "x": 0.115,
+                    "y": 0.098,
+                    "width": 0.77,
+                    "height": 0.8039
+                  }
                 },
                 {
                   "type": "asset",
@@ -1270,7 +1954,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_13_OLED_Platinum.png",
                   "format": "png",
                   "device": "2024 XPS 13 OLED",
-                  "color": "Platinum"
+                  "color": "Platinum",
+                  "screenRect": {
+                    "x": 0.115,
+                    "y": 0.098,
+                    "width": 0.77,
+                    "height": 0.8039
+                  }
                 },
                 {
                   "type": "asset",
@@ -1278,7 +1968,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_14_Graphite.png",
                   "format": "png",
                   "device": "2024 XPS 14",
-                  "color": "Graphite"
+                  "color": "Graphite",
+                  "screenRect": {
+                    "x": 0.1083,
+                    "y": 0.0922,
+                    "width": 0.7833,
+                    "height": 0.8156
+                  }
                 },
                 {
                   "type": "asset",
@@ -1286,7 +1982,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_14_Platinum.png",
                   "format": "png",
                   "device": "2024 XPS 14",
-                  "color": "Platinum"
+                  "color": "Platinum",
+                  "screenRect": {
+                    "x": 0.1083,
+                    "y": 0.0922,
+                    "width": 0.7833,
+                    "height": 0.8156
+                  }
                 },
                 {
                   "type": "asset",
@@ -1294,7 +1996,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_16_Graphite.png",
                   "format": "png",
                   "device": "2024 XPS 16",
-                  "color": "Graphite"
+                  "color": "Graphite",
+                  "screenRect": {
+                    "x": 0.1117,
+                    "y": 0.0829,
+                    "width": 0.7767,
+                    "height": 0.8343
+                  }
                 },
                 {
                   "type": "asset",
@@ -1302,7 +2010,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Dell/2024_XPS_16_Platinum.png",
                   "format": "png",
                   "device": "2024 XPS 16",
-                  "color": "Platinum"
+                  "color": "Platinum",
+                  "screenRect": {
+                    "x": 0.1117,
+                    "y": 0.0829,
+                    "width": 0.7767,
+                    "height": 0.8343
+                  }
                 }
               ]
             },
@@ -1316,7 +2030,13 @@
                   "name": "ThinkPad P14s Gen 5",
                   "path": "Frames/Windows/Windows_Laptop/Lenovo/ThinkPad_P14s_Gen_5.png",
                   "format": "png",
-                  "device": "ThinkPad P14s Gen 5"
+                  "device": "ThinkPad P14s Gen 5",
+                  "screenRect": {
+                    "x": 0.1483,
+                    "y": 0.1278,
+                    "width": 0.7033,
+                    "height": 0.7443
+                  }
                 }
               ]
             },
@@ -1331,7 +2051,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Microsoft/Surface_Laptop_13_-_Platinum.png",
                   "format": "png",
                   "device": "Surface Laptop 13",
-                  "color": "Platinum"
+                  "color": "Platinum",
+                  "screenRect": {
+                    "x": 0.13,
+                    "y": 0.1043,
+                    "width": 0.74,
+                    "height": 0.7914
+                  }
                 },
                 {
                   "type": "asset",
@@ -1339,7 +2065,13 @@
                   "path": "Frames/Windows/Windows_Laptop/Microsoft/Surface_Laptop_15_-_Platinum.png",
                   "format": "png",
                   "device": "Surface Laptop 15",
-                  "color": "Platinum"
+                  "color": "Platinum",
+                  "screenRect": {
+                    "x": 0.1217,
+                    "y": 0.0987,
+                    "width": 0.7567,
+                    "height": 0.8027
+                  }
                 }
               ]
             }
