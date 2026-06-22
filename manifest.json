@@ -26,10 +26,10 @@
                   "device": "Pixel 8",
                   "color": "Hazel",
                   "screenRect": {
-                    "x": 0.1214,
-                    "y": 0.06,
-                    "width": 0.7572,
-                    "height": 0.8783
+                    "x": 0.1205,
+                    "y": 0.0586,
+                    "width": 0.7589,
+                    "height": 0.88
                   }
                 }
               ]
@@ -47,10 +47,10 @@
                   "device": "Pixel 8 Pro",
                   "color": "Black",
                   "screenRect": {
-                    "x": 0.1161,
-                    "y": 0.055,
-                    "width": 0.7677,
-                    "height": 0.8883
+                    "x": 0.1136,
+                    "y": 0.0543,
+                    "width": 0.7729,
+                    "height": 0.89
                   }
                 },
                 {
@@ -61,10 +61,10 @@
                   "device": "Pixel 8 Pro",
                   "color": "Blue",
                   "screenRect": {
-                    "x": 0.1161,
-                    "y": 0.055,
-                    "width": 0.7677,
-                    "height": 0.8883
+                    "x": 0.1136,
+                    "y": 0.0543,
+                    "width": 0.7729,
+                    "height": 0.89
                   }
                 },
                 {
@@ -75,10 +75,10 @@
                   "device": "Pixel 8 Pro",
                   "color": "Silver",
                   "screenRect": {
-                    "x": 0.1161,
-                    "y": 0.055,
-                    "width": 0.7677,
-                    "height": 0.8883
+                    "x": 0.1136,
+                    "y": 0.0543,
+                    "width": 0.7729,
+                    "height": 0.89
                   }
                 }
               ]
@@ -96,10 +96,10 @@
                   "device": "Pixel 9 Pro",
                   "color": "Hazel",
                   "screenRect": {
-                    "x": 0.1068,
-                    "y": 0.0467,
-                    "width": 0.7864,
-                    "height": 0.9083
+                    "x": 0.1053,
+                    "y": 0.0457,
+                    "width": 0.7895,
+                    "height": 0.91
                   }
                 },
                 {
@@ -110,10 +110,10 @@
                   "device": "Pixel 9 Pro",
                   "color": "Obsidian",
                   "screenRect": {
-                    "x": 0.1068,
-                    "y": 0.0467,
-                    "width": 0.7864,
-                    "height": 0.9083
+                    "x": 0.1053,
+                    "y": 0.0457,
+                    "width": 0.7895,
+                    "height": 0.91
                   }
                 },
                 {
@@ -124,10 +124,10 @@
                   "device": "Pixel 9 Pro",
                   "color": "Rose Quartz",
                   "screenRect": {
-                    "x": 0.1068,
-                    "y": 0.0467,
-                    "width": 0.7864,
-                    "height": 0.9083
+                    "x": 0.1053,
+                    "y": 0.0457,
+                    "width": 0.7895,
+                    "height": 0.91
                   }
                 }
               ]
@@ -145,10 +145,10 @@
                   "device": "Pixel 9 Pro XL",
                   "color": "Hazel",
                   "screenRect": {
-                    "x": 0.1039,
-                    "y": 0.0433,
-                    "width": 0.7922,
-                    "height": 0.9133
+                    "x": 0.1,
+                    "y": 0.0429,
+                    "width": 0.8,
+                    "height": 0.9143
                   }
                 },
                 {
@@ -159,10 +159,10 @@
                   "device": "Pixel 9 Pro XL",
                   "color": "Obsidian",
                   "screenRect": {
-                    "x": 0.1039,
-                    "y": 0.0433,
-                    "width": 0.7922,
-                    "height": 0.9133
+                    "x": 0.1,
+                    "y": 0.0429,
+                    "width": 0.8,
+                    "height": 0.9143
                   }
                 },
                 {
@@ -173,10 +173,10 @@
                   "device": "Pixel 9 Pro XL",
                   "color": "Rose Quartz",
                   "screenRect": {
-                    "x": 0.1039,
-                    "y": 0.0433,
-                    "width": 0.7922,
-                    "height": 0.9133
+                    "x": 0.1,
+                    "y": 0.0429,
+                    "width": 0.8,
+                    "height": 0.9143
                   }
                 }
               ]
@@ -201,10 +201,10 @@
                   "device": "Pixel Tablet",
                   "color": "Hazel",
                   "screenRect": {
-                    "x": 0.065,
-                    "y": 0.0961,
-                    "width": 0.87,
-                    "height": 0.8079
+                    "x": 0.0629,
+                    "y": 0.0928,
+                    "width": 0.8743,
+                    "height": 0.8143
                   }
                 },
                 {
@@ -215,10 +215,10 @@
                   "device": "Pixel Tablet",
                   "color": "Porcelain",
                   "screenRect": {
-                    "x": 0.065,
-                    "y": 0.0961,
-                    "width": 0.87,
-                    "height": 0.8079
+                    "x": 0.0629,
+                    "y": 0.0928,
+                    "width": 0.8743,
+                    "height": 0.8143
                   }
                 }
               ]
@@ -236,9 +236,9 @@
                   "device": "Samsung Galaxy Tab S11 Ultra",
                   "screenRect": {
                     "x": 0.06,
-                    "y": 0.0923,
+                    "y": 0.0897,
                     "width": 0.88,
-                    "height": 0.818
+                    "height": 0.8226
                   }
                 }
               ]
@@ -264,10 +264,10 @@
               "format": "png",
               "device": "MacBook Air 13",
               "screenRect": {
-                "x": 0.1083,
-                "y": 0.1181,
-                "width": 0.7833,
-                "height": 0.7638
+                "x": 0.1071,
+                "y": 0.1164,
+                "width": 0.7857,
+                "height": 0.7672
               }
             },
             {
@@ -280,10 +280,10 @@
                 "Menu Bar"
               ],
               "screenRect": {
-                "x": 0.1083,
-                "y": 0.1457,
-                "width": 0.7833,
-                "height": 0.7362
+                "x": 0.1071,
+                "y": 0.1444,
+                "width": 0.7857,
+                "height": 0.7392
               }
             },
             {
@@ -293,9 +293,9 @@
               "format": "png",
               "device": "MacBook Air 15",
               "screenRect": {
-                "x": 0.0983,
+                "x": 0.0971,
                 "y": 0.1061,
-                "width": 0.8033,
+                "width": 0.8057,
                 "height": 0.7879
               }
             },
@@ -309,10 +309,10 @@
                 "Menu Bar"
               ],
               "screenRect": {
-                "x": 0.0983,
-                "y": 0.1313,
-                "width": 0.8033,
-                "height": 0.7626
+                "x": 0.0971,
+                "y": 0.1299,
+                "width": 0.8057,
+                "height": 0.7641
               }
             },
             {
@@ -322,10 +322,10 @@
               "format": "png",
               "device": "MacBook Pro 14",
               "screenRect": {
-                "x": 0.1183,
-                "y": 0.1179,
-                "width": 0.7633,
-                "height": 0.7641
+                "x": 0.1171,
+                "y": 0.1165,
+                "width": 0.7657,
+                "height": 0.767
               }
             },
             {
@@ -338,10 +338,10 @@
                 "Menu Bar"
               ],
               "screenRect": {
-                "x": 0.105,
-                "y": 0.1468,
-                "width": 0.79,
-                "height": 0.7338
+                "x": 0.1043,
+                "y": 0.145,
+                "width": 0.7914,
+                "height": 0.7377
               }
             },
             {
@@ -351,10 +351,10 @@
               "format": "png",
               "device": "MacBook Pro 16",
               "screenRect": {
-                "x": 0.1033,
-                "y": 0.1114,
-                "width": 0.7933,
-                "height": 0.7772
+                "x": 0.1014,
+                "y": 0.1106,
+                "width": 0.7971,
+                "height": 0.7787
               }
             },
             {
@@ -367,10 +367,10 @@
                 "Menu Bar"
               ],
               "screenRect": {
-                "x": 0.1033,
+                "x": 0.1014,
                 "y": 0.1367,
-                "width": 0.7933,
-                "height": 0.7519
+                "width": 0.7971,
+                "height": 0.7527
               }
             }
           ]
@@ -392,10 +392,10 @@
                   "format": "png",
                   "device": "Pro Display XDR",
                   "screenRect": {
-                    "x": 0.0317,
-                    "y": 0.0419,
-                    "width": 0.9367,
-                    "height": 0.6938
+                    "x": 0.0314,
+                    "y": 0.0415,
+                    "width": 0.9371,
+                    "height": 0.6943
                   }
                 }
               ]
@@ -412,10 +412,10 @@
                   "format": "png",
                   "device": "Studio Display",
                   "screenRect": {
-                    "x": 0.0367,
-                    "y": 0.0469,
-                    "width": 0.9267,
-                    "height": 0.6652
+                    "x": 0.0357,
+                    "y": 0.0457,
+                    "width": 0.9286,
+                    "height": 0.6673
                   }
                 }
               ]
@@ -433,9 +433,9 @@
                   "device": "iMac 24",
                   "color": "Blue",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -464,9 +464,9 @@
                   "device": "iMac 24",
                   "color": "Green",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -495,9 +495,9 @@
                   "device": "iMac 24",
                   "color": "Orange",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -526,9 +526,9 @@
                   "device": "iMac 24",
                   "color": "Purple",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -557,9 +557,9 @@
                   "device": "iMac 24",
                   "color": "Red",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -588,9 +588,9 @@
                   "device": "iMac 24",
                   "color": "Silver",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -619,9 +619,9 @@
                   "device": "iMac 24",
                   "color": "Yellow",
                   "screenRect": {
-                    "x": 0.0411,
+                    "x": 0.0402,
                     "y": 0.28,
-                    "width": 0.9178,
+                    "width": 0.9196,
                     "height": 0.44
                   }
                 },
@@ -664,10 +664,10 @@
                   "device": "13 mini",
                   "color": "Black",
                   "screenRect": {
-                    "x": 0.0795,
-                    "y": 0.0833,
-                    "width": 0.8411,
-                    "height": 0.8767
+                    "x": 0.0767,
+                    "y": 0.04,
+                    "width": 0.8438,
+                    "height": 0.92
                   }
                 },
                 {
@@ -678,10 +678,10 @@
                   "device": "13 mini",
                   "color": "Blue",
                   "screenRect": {
-                    "x": 0.0795,
-                    "y": 0.0833,
-                    "width": 0.8411,
-                    "height": 0.8767
+                    "x": 0.0767,
+                    "y": 0.04,
+                    "width": 0.8438,
+                    "height": 0.92
                   }
                 },
                 {
@@ -692,10 +692,10 @@
                   "device": "13 mini",
                   "color": "Pink",
                   "screenRect": {
-                    "x": 0.0795,
-                    "y": 0.0833,
-                    "width": 0.8411,
-                    "height": 0.8767
+                    "x": 0.0767,
+                    "y": 0.04,
+                    "width": 0.8438,
+                    "height": 0.92
                   }
                 },
                 {
@@ -706,10 +706,10 @@
                   "device": "13 mini",
                   "color": "ProductRED",
                   "screenRect": {
-                    "x": 0.0795,
-                    "y": 0.0833,
-                    "width": 0.8411,
-                    "height": 0.8767
+                    "x": 0.0767,
+                    "y": 0.04,
+                    "width": 0.8438,
+                    "height": 0.92
                   }
                 },
                 {
@@ -720,10 +720,10 @@
                   "device": "13 mini",
                   "color": "Starlight",
                   "screenRect": {
-                    "x": 0.0795,
-                    "y": 0.0833,
-                    "width": 0.8411,
-                    "height": 0.8767
+                    "x": 0.0767,
+                    "y": 0.04,
+                    "width": 0.8438,
+                    "height": 0.92
                   }
                 }
               ]
@@ -741,10 +741,10 @@
                   "device": "14 Pro Max",
                   "color": "Deep Purple",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.069,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9329
                   }
                 },
                 {
@@ -772,10 +772,10 @@
                   "device": "14 Pro Max",
                   "color": "Gold",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.069,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -803,10 +803,10 @@
                   "device": "14 Pro Max",
                   "color": "Silver",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.069,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -834,10 +834,10 @@
                   "device": "14 Pro Max",
                   "color": "Space Black",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.069,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -872,10 +872,10 @@
                   "device": "15 Pro Max",
                   "color": "Black Titanium",
                   "screenRect": {
-                    "x": 0.0671,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -886,10 +886,10 @@
                   "device": "15 Pro Max",
                   "color": "Blue Titanium",
                   "screenRect": {
-                    "x": 0.0671,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -900,10 +900,10 @@
                   "device": "15 Pro Max",
                   "color": "Natural Titanium",
                   "screenRect": {
-                    "x": 0.0671,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -914,10 +914,10 @@
                   "device": "15 Pro Max",
                   "color": "White Titanium",
                   "screenRect": {
-                    "x": 0.0671,
-                    "y": 0.07,
-                    "width": 0.8624,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8649,
+                    "height": 0.9343
                   }
                 }
               ]
@@ -935,10 +935,10 @@
                   "device": "16",
                   "color": "Black",
                   "screenRect": {
-                    "x": 0.0733,
-                    "y": 0.0833,
-                    "width": 0.8533,
-                    "height": 0.88
+                    "x": 0.0714,
+                    "y": 0.0357,
+                    "width": 0.8571,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -949,10 +949,10 @@
                   "device": "16",
                   "color": "Pink",
                   "screenRect": {
-                    "x": 0.0733,
-                    "y": 0.0833,
-                    "width": 0.8533,
-                    "height": 0.88
+                    "x": 0.0714,
+                    "y": 0.0357,
+                    "width": 0.8571,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -963,10 +963,10 @@
                   "device": "16",
                   "color": "Teal",
                   "screenRect": {
-                    "x": 0.0733,
-                    "y": 0.0833,
-                    "width": 0.8533,
-                    "height": 0.88
+                    "x": 0.0714,
+                    "y": 0.0357,
+                    "width": 0.8571,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -977,10 +977,10 @@
                   "device": "16",
                   "color": "Ultramarine",
                   "screenRect": {
-                    "x": 0.0733,
-                    "y": 0.0833,
-                    "width": 0.8533,
-                    "height": 0.88
+                    "x": 0.0714,
+                    "y": 0.0357,
+                    "width": 0.8571,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -991,10 +991,10 @@
                   "device": "16",
                   "color": "White",
                   "screenRect": {
-                    "x": 0.0733,
-                    "y": 0.0833,
-                    "width": 0.8533,
-                    "height": 0.88
+                    "x": 0.0714,
+                    "y": 0.0357,
+                    "width": 0.8571,
+                    "height": 0.9286
                   }
                 }
               ]
@@ -1012,10 +1012,10 @@
                   "device": "16 Plus",
                   "color": "Black",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8591,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1026,10 +1026,10 @@
                   "device": "16 Plus",
                   "color": "Pink",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8591,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1040,10 +1040,10 @@
                   "device": "16 Plus",
                   "color": "Teal",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8591,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1054,10 +1054,10 @@
                   "device": "16 Plus",
                   "color": "Ultramarine",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8591,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1068,10 +1068,10 @@
                   "device": "16 Plus",
                   "color": "White",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.07,
-                    "width": 0.8591,
-                    "height": 0.895
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 }
               ]
@@ -1089,10 +1089,10 @@
                   "device": "16 Pro",
                   "color": "Black Titanium",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0817,
-                    "width": 0.8557,
-                    "height": 0.8817
+                    "x": 0.0718,
+                    "y": 0.0357,
+                    "width": 0.8592,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -1103,10 +1103,10 @@
                   "device": "16 Pro",
                   "color": "Desert Titanium",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0817,
-                    "width": 0.8523,
-                    "height": 0.8817
+                    "x": 0.0747,
+                    "y": 0.0357,
+                    "width": 0.8534,
+                    "height": 0.9271
                   }
                 },
                 {
@@ -1117,10 +1117,10 @@
                   "device": "16 Pro",
                   "color": "Natural Titanium",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0833,
-                    "width": 0.8523,
-                    "height": 0.88
+                    "x": 0.0718,
+                    "y": 0.0357,
+                    "width": 0.8563,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -1131,10 +1131,10 @@
                   "device": "16 Pro",
                   "color": "White Titanium",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0817,
-                    "width": 0.8557,
-                    "height": 0.8817
+                    "x": 0.0718,
+                    "y": 0.0357,
+                    "width": 0.8592,
+                    "height": 0.9286
                   }
                 }
               ]
@@ -1152,10 +1152,10 @@
                   "device": "16 Pro Max",
                   "color": "Black Titanium",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.0683,
-                    "width": 0.8653,
-                    "height": 0.8983
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1166,10 +1166,10 @@
                   "device": "16 Pro Max",
                   "color": "Desert Titanium",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.0683,
-                    "width": 0.8653,
-                    "height": 0.8983
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1180,10 +1180,10 @@
                   "device": "16 Pro Max",
                   "color": "Natural Titanium",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.0683,
-                    "width": 0.8653,
-                    "height": 0.8983
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1194,10 +1194,10 @@
                   "device": "16 Pro Max",
                   "color": "White Titanium",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.0683,
-                    "width": 0.8653,
-                    "height": 0.8983
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 }
               ]
@@ -1215,10 +1215,10 @@
                   "device": "17 Pro",
                   "color": "Cosmic Orange",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0833,
-                    "width": 0.8523,
-                    "height": 0.88
+                    "x": 0.0718,
+                    "y": 0.0357,
+                    "width": 0.8563,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -1229,10 +1229,10 @@
                   "device": "17 Pro",
                   "color": "Deep Blue",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0833,
-                    "width": 0.8523,
-                    "height": 0.88
+                    "x": 0.0718,
+                    "y": 0.0357,
+                    "width": 0.8563,
+                    "height": 0.9286
                   }
                 },
                 {
@@ -1243,10 +1243,10 @@
                   "device": "17 Pro",
                   "color": "Silver",
                   "screenRect": {
-                    "x": 0.0738,
-                    "y": 0.0833,
-                    "width": 0.8523,
-                    "height": 0.88
+                    "x": 0.0718,
+                    "y": 0.0357,
+                    "width": 0.8563,
+                    "height": 0.9286
                   }
                 }
               ]
@@ -1264,10 +1264,10 @@
                   "device": "17 Pro Max",
                   "color": "Cosmic Orange",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.07,
-                    "width": 0.8653,
-                    "height": 0.8967
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1278,10 +1278,10 @@
                   "device": "17 Pro Max",
                   "color": "Deep Blue",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.07,
-                    "width": 0.8653,
-                    "height": 0.8967
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1292,10 +1292,10 @@
                   "device": "17 Pro Max",
                   "color": "Silver",
                   "screenRect": {
-                    "x": 0.0673,
-                    "y": 0.07,
-                    "width": 0.8653,
-                    "height": 0.8967
+                    "x": 0.0665,
+                    "y": 0.0329,
+                    "width": 0.8671,
+                    "height": 0.9343
                   }
                 }
               ]
@@ -1313,10 +1313,10 @@
                   "device": "Air",
                   "color": "Cloud White",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.0817,
-                    "width": 0.8591,
-                    "height": 0.8833
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1335,10 +1335,10 @@
                   "device": "Air",
                   "color": "Light Gold",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.0817,
-                    "width": 0.8591,
-                    "height": 0.8833
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1357,10 +1357,10 @@
                   "device": "Air",
                   "color": "Sky Blue",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.0817,
-                    "width": 0.8591,
-                    "height": 0.8833
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1379,10 +1379,10 @@
                   "device": "Air",
                   "color": "Space Black",
                   "screenRect": {
-                    "x": 0.0705,
-                    "y": 0.08,
-                    "width": 0.8591,
-                    "height": 0.885
+                    "x": 0.0661,
+                    "y": 0.0329,
+                    "width": 0.8678,
+                    "height": 0.9343
                   }
                 },
                 {
@@ -1421,10 +1421,10 @@
                       "color": "Blue",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.0467,
-                        "y": 0.0647,
-                        "width": 0.9067,
-                        "height": 0.8707
+                        "x": 0.0457,
+                        "y": 0.0632,
+                        "width": 0.9086,
+                        "height": 0.8735
                       }
                     },
                     {
@@ -1436,10 +1436,10 @@
                       "color": "Lavender",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.0467,
-                        "y": 0.0647,
-                        "width": 0.9067,
-                        "height": 0.8707
+                        "x": 0.0457,
+                        "y": 0.0632,
+                        "width": 0.9086,
+                        "height": 0.8735
                       }
                     },
                     {
@@ -1451,10 +1451,10 @@
                       "color": "Space Gray",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.0467,
-                        "y": 0.0647,
-                        "width": 0.9067,
-                        "height": 0.8707
+                        "x": 0.0457,
+                        "y": 0.0632,
+                        "width": 0.9086,
+                        "height": 0.8735
                       }
                     },
                     {
@@ -1466,10 +1466,10 @@
                       "color": "Stardust",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.0467,
-                        "y": 0.0647,
-                        "width": 0.9067,
-                        "height": 0.8707
+                        "x": 0.0457,
+                        "y": 0.0632,
+                        "width": 0.9086,
+                        "height": 0.8735
                       }
                     },
                     {
@@ -1481,10 +1481,10 @@
                       "color": "Blue",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0647,
-                        "y": 0.0467,
-                        "width": 0.8707,
-                        "height": 0.9067
+                        "x": 0.0632,
+                        "y": 0.0457,
+                        "width": 0.8735,
+                        "height": 0.9086
                       }
                     },
                     {
@@ -1496,10 +1496,10 @@
                       "color": "Lavender",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0647,
-                        "y": 0.0467,
-                        "width": 0.8707,
-                        "height": 0.9067
+                        "x": 0.0632,
+                        "y": 0.0457,
+                        "width": 0.8735,
+                        "height": 0.9086
                       }
                     },
                     {
@@ -1511,10 +1511,10 @@
                       "color": "Space Gray",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0647,
-                        "y": 0.0467,
-                        "width": 0.8707,
-                        "height": 0.9067
+                        "x": 0.0632,
+                        "y": 0.0457,
+                        "width": 0.8735,
+                        "height": 0.9086
                       }
                     },
                     {
@@ -1526,10 +1526,10 @@
                       "color": "Stardust",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0647,
-                        "y": 0.0467,
-                        "width": 0.8707,
-                        "height": 0.9067
+                        "x": 0.0632,
+                        "y": 0.0457,
+                        "width": 0.8735,
+                        "height": 0.9086
                       }
                     }
                   ]
@@ -1548,10 +1548,10 @@
                       "color": "Blue",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.035,
-                        "y": 0.0457,
-                        "width": 0.93,
-                        "height": 0.9087
+                        "x": 0.0343,
+                        "y": 0.0448,
+                        "width": 0.9314,
+                        "height": 0.9104
                       }
                     },
                     {
@@ -1563,10 +1563,10 @@
                       "color": "Lavender",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.035,
-                        "y": 0.0457,
-                        "width": 0.93,
-                        "height": 0.9087
+                        "x": 0.0343,
+                        "y": 0.0448,
+                        "width": 0.9314,
+                        "height": 0.9104
                       }
                     },
                     {
@@ -1578,10 +1578,10 @@
                       "color": "Space Gray",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.035,
-                        "y": 0.0457,
-                        "width": 0.93,
-                        "height": 0.9087
+                        "x": 0.0343,
+                        "y": 0.0448,
+                        "width": 0.9314,
+                        "height": 0.9104
                       }
                     },
                     {
@@ -1593,10 +1593,10 @@
                       "color": "Stardust",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.035,
-                        "y": 0.0457,
-                        "width": 0.93,
-                        "height": 0.9087
+                        "x": 0.0343,
+                        "y": 0.0448,
+                        "width": 0.9314,
+                        "height": 0.9104
                       }
                     },
                     {
@@ -1608,10 +1608,10 @@
                       "color": "Blue",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0457,
-                        "y": 0.035,
-                        "width": 0.9087,
-                        "height": 0.93
+                        "x": 0.0448,
+                        "y": 0.0343,
+                        "width": 0.9104,
+                        "height": 0.9314
                       }
                     },
                     {
@@ -1623,10 +1623,10 @@
                       "color": "Lavender",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0457,
-                        "y": 0.035,
-                        "width": 0.9087,
-                        "height": 0.93
+                        "x": 0.0448,
+                        "y": 0.0343,
+                        "width": 0.9104,
+                        "height": 0.9314
                       }
                     },
                     {
@@ -1638,10 +1638,10 @@
                       "color": "Space Gray",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0457,
-                        "y": 0.035,
-                        "width": 0.9087,
-                        "height": 0.93
+                        "x": 0.0448,
+                        "y": 0.0343,
+                        "width": 0.9104,
+                        "height": 0.9314
                       }
                     },
                     {
@@ -1653,10 +1653,10 @@
                       "color": "Stardust",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0457,
-                        "y": 0.035,
-                        "width": 0.9087,
-                        "height": 0.93
+                        "x": 0.0448,
+                        "y": 0.0343,
+                        "width": 0.9104,
+                        "height": 0.9314
                       }
                     }
                   ]
@@ -1682,10 +1682,10 @@
                       "color": "Silver",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.0383,
-                        "y": 0.0539,
-                        "width": 0.9233,
-                        "height": 0.8923
+                        "x": 0.0386,
+                        "y": 0.0541,
+                        "width": 0.9229,
+                        "height": 0.8918
                       }
                     },
                     {
@@ -1697,10 +1697,10 @@
                       "color": "Space Black",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.0383,
-                        "y": 0.0539,
-                        "width": 0.9233,
-                        "height": 0.8923
+                        "x": 0.0386,
+                        "y": 0.0541,
+                        "width": 0.9229,
+                        "height": 0.8918
                       }
                     },
                     {
@@ -1712,10 +1712,10 @@
                       "color": "Silver",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0539,
-                        "y": 0.0383,
-                        "width": 0.8899,
-                        "height": 0.9233
+                        "x": 0.0521,
+                        "y": 0.0386,
+                        "width": 0.8938,
+                        "height": 0.9229
                       }
                     },
                     {
@@ -1727,10 +1727,10 @@
                       "color": "Space Black",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0539,
-                        "y": 0.0383,
-                        "width": 0.8899,
-                        "height": 0.9233
+                        "x": 0.0521,
+                        "y": 0.0386,
+                        "width": 0.8938,
+                        "height": 0.9229
                       }
                     }
                   ]
@@ -1749,10 +1749,10 @@
                       "color": "Silver",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.035,
-                        "y": 0.0457,
-                        "width": 0.93,
-                        "height": 0.9087
+                        "x": 0.0343,
+                        "y": 0.0448,
+                        "width": 0.9314,
+                        "height": 0.9104
                       }
                     },
                     {
@@ -1764,10 +1764,10 @@
                       "color": "Space Black",
                       "orientation": "Landscape",
                       "screenRect": {
-                        "x": 0.035,
-                        "y": 0.0457,
-                        "width": 0.93,
-                        "height": 0.9087
+                        "x": 0.0343,
+                        "y": 0.0448,
+                        "width": 0.9314,
+                        "height": 0.9104
                       }
                     },
                     {
@@ -1779,10 +1779,10 @@
                       "color": "Silver",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0457,
-                        "y": 0.035,
-                        "width": 0.9087,
-                        "height": 0.93
+                        "x": 0.0448,
+                        "y": 0.0343,
+                        "width": 0.9104,
+                        "height": 0.9314
                       }
                     },
                     {
@@ -1794,10 +1794,10 @@
                       "color": "Space Black",
                       "orientation": "Portrait",
                       "screenRect": {
-                        "x": 0.0457,
-                        "y": 0.035,
-                        "width": 0.9087,
-                        "height": 0.93
+                        "x": 0.0448,
+                        "y": 0.0343,
+                        "width": 0.9104,
+                        "height": 0.9314
                       }
                     }
                   ]
@@ -1818,10 +1818,10 @@
                   "color": "Starlight",
                   "orientation": "Landscape",
                   "screenRect": {
-                    "x": 0.0767,
-                    "y": 0.1085,
-                    "width": 0.8467,
-                    "height": 0.7854
+                    "x": 0.0757,
+                    "y": 0.1071,
+                    "width": 0.8486,
+                    "height": 0.7879
                   }
                 },
                 {
@@ -1833,10 +1833,10 @@
                   "color": "Starlight",
                   "orientation": "Portrait",
                   "screenRect": {
-                    "x": 0.1061,
-                    "y": 0.0767,
-                    "width": 0.7854,
-                    "height": 0.8467
+                    "x": 0.1051,
+                    "y": 0.0757,
+                    "width": 0.7879,
+                    "height": 0.8486
                   }
                 }
               ]
@@ -1862,10 +1862,10 @@
               "format": "png",
               "device": "Dell UltraSharp 5K Monitor 27",
               "screenRect": {
-                "x": 0.0532,
-                "y": 0.2567,
-                "width": 0.8937,
-                "height": 0.4867
+                "x": 0.0529,
+                "y": 0.2557,
+                "width": 0.8941,
+                "height": 0.4886
               }
             },
             {
@@ -1875,10 +1875,10 @@
               "format": "png",
               "device": "Huawei MateView",
               "screenRect": {
-                "x": 0.0483,
-                "y": 0.0537,
-                "width": 0.9033,
-                "height": 0.6667
+                "x": 0.0471,
+                "y": 0.0524,
+                "width": 0.9057,
+                "height": 0.6698
               }
             },
             {
@@ -1888,10 +1888,10 @@
               "format": "png",
               "device": "Samsung S90PC ViewFinity 5K",
               "screenRect": {
-                "x": 0.0367,
-                "y": 0.0494,
-                "width": 0.9267,
-                "height": 0.7011
+                "x": 0.0357,
+                "y": 0.0482,
+                "width": 0.9286,
+                "height": 0.7033
               }
             }
           ]
@@ -1914,10 +1914,10 @@
                   "device": "2023 XPS 13 Plus",
                   "color": "Black",
                   "screenRect": {
-                    "x": 0.115,
-                    "y": 0.0835,
-                    "width": 0.7717,
-                    "height": 0.6874
+                    "x": 0.1143,
+                    "y": 0.0818,
+                    "width": 0.7743,
+                    "height": 0.6912
                   }
                 },
                 {
@@ -1928,10 +1928,10 @@
                   "device": "2023 XPS 13 Plus",
                   "color": "White",
                   "screenRect": {
-                    "x": 0.115,
-                    "y": 0.0835,
-                    "width": 0.7717,
-                    "height": 0.6874
+                    "x": 0.1143,
+                    "y": 0.082,
+                    "width": 0.7729,
+                    "height": 0.6906
                   }
                 },
                 {
@@ -1942,10 +1942,10 @@
                   "device": "2024 XPS 13 OLED",
                   "color": "Graphite",
                   "screenRect": {
-                    "x": 0.115,
-                    "y": 0.098,
-                    "width": 0.77,
-                    "height": 0.8039
+                    "x": 0.1143,
+                    "y": 0.0959,
+                    "width": 0.7714,
+                    "height": 0.8082
                   }
                 },
                 {
@@ -1956,10 +1956,10 @@
                   "device": "2024 XPS 13 OLED",
                   "color": "Platinum",
                   "screenRect": {
-                    "x": 0.115,
-                    "y": 0.098,
-                    "width": 0.77,
-                    "height": 0.8039
+                    "x": 0.1143,
+                    "y": 0.0959,
+                    "width": 0.7714,
+                    "height": 0.8082
                   }
                 },
                 {
@@ -1970,10 +1970,10 @@
                   "device": "2024 XPS 14",
                   "color": "Graphite",
                   "screenRect": {
-                    "x": 0.1083,
-                    "y": 0.0922,
-                    "width": 0.7833,
-                    "height": 0.8156
+                    "x": 0.1071,
+                    "y": 0.0909,
+                    "width": 0.7857,
+                    "height": 0.8182
                   }
                 },
                 {
@@ -1984,10 +1984,10 @@
                   "device": "2024 XPS 14",
                   "color": "Platinum",
                   "screenRect": {
-                    "x": 0.1083,
-                    "y": 0.0922,
-                    "width": 0.7833,
-                    "height": 0.8156
+                    "x": 0.1071,
+                    "y": 0.0909,
+                    "width": 0.7857,
+                    "height": 0.8182
                   }
                 },
                 {
@@ -1998,10 +1998,10 @@
                   "device": "2024 XPS 16",
                   "color": "Graphite",
                   "screenRect": {
-                    "x": 0.1117,
-                    "y": 0.0829,
-                    "width": 0.7767,
-                    "height": 0.8343
+                    "x": 0.11,
+                    "y": 0.0809,
+                    "width": 0.78,
+                    "height": 0.8358
                   }
                 },
                 {
@@ -2012,10 +2012,10 @@
                   "device": "2024 XPS 16",
                   "color": "Platinum",
                   "screenRect": {
-                    "x": 0.1117,
-                    "y": 0.0829,
-                    "width": 0.7767,
-                    "height": 0.8343
+                    "x": 0.11,
+                    "y": 0.0809,
+                    "width": 0.78,
+                    "height": 0.8358
                   }
                 }
               ]
@@ -2032,10 +2032,10 @@
                   "format": "png",
                   "device": "ThinkPad P14s Gen 5",
                   "screenRect": {
-                    "x": 0.1483,
-                    "y": 0.1278,
-                    "width": 0.7033,
-                    "height": 0.7443
+                    "x": 0.1474,
+                    "y": 0.1241,
+                    "width": 0.7053,
+                    "height": 0.7518
                   }
                 }
               ]
@@ -2053,10 +2053,10 @@
                   "device": "Surface Laptop 13",
                   "color": "Platinum",
                   "screenRect": {
-                    "x": 0.13,
-                    "y": 0.1043,
-                    "width": 0.74,
-                    "height": 0.7914
+                    "x": 0.1286,
+                    "y": 0.1032,
+                    "width": 0.7429,
+                    "height": 0.7936
                   }
                 },
                 {
@@ -2067,10 +2067,10 @@
                   "device": "Surface Laptop 15",
                   "color": "Platinum",
                   "screenRect": {
-                    "x": 0.1217,
-                    "y": 0.0987,
-                    "width": 0.7567,
-                    "height": 0.8027
+                    "x": 0.1214,
+                    "y": 0.0959,
+                    "width": 0.7571,
+                    "height": 0.8082
                   }
                 }
               ]
